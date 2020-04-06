@@ -1,0 +1,46 @@
+package teste; 
+public class Exercicio1 { 
+public static void main(String[] args) {
+
+    /*int n1= 3;
+    int n2= 5;
+    float m = (n1 + n2)/2;
+    System.out.println("A media é igual a \n" + m);*/
+  
+    /*int a=4;
+    int b=7 + a++;
+    System.out.println(b);
+    System.out.println(a);*/  
+    
+    /*int x=4;
+    x += 2; //x=x+2
+    System.out.println(x);*/
+    
+    /*float n1=-10f;
+    int n2= (int) Math.abs(n1);
+    System.out.println(n2);*/
+    
+   /*float n1=7.5f;
+    int n2= (int) Math.floor(n1);
+    System.out.println(n2);*/
+    
+   /*float n1=7.5f;
+    int n2= (int) Math.ceil(n1);
+    System.out.println(n2);*/
+   
+    /*float n1=7.5f;
+    int n2= (int) Math.round(n1);
+    System.out.println(n2);*/
+    //abs (Valor absoluto) Math.abs(-10)=10
+    //floor (Arredonda pra cima) Math.floor(5.5)=5
+    //ceil (Arredonda pra baixo) Math.ceil(5.5)=6
+    //round (Arredendoa Aritmeticamente Math.round(5.5)=6
+    
+    /*double ale=Math.random();
+    int n =(int)(1+ale*(10-1));
+    System.out.println(n);*/
+    
+    //Math.random, gera um numero aletoria, 
+    //usando a formula é possivel escolher o limite de numeros 
+  } 
+}
